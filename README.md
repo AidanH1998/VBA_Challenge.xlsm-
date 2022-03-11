@@ -1,6 +1,6 @@
 # VBA_Challenge.xlsm-
 
-**Whaat We Have To DO?**
+**What We Have To DO?**
 
 In this challenge we are looking at the 12 stocks that we want to invest in and in order to invest in them we have to know how they are doing in the selected years, 2017 and 2018.
 
